@@ -2,7 +2,8 @@
   <div>
     <!-- link -->
     <nuxt-link to="/" class="btn">Home</nuxt-link>
-    <nuxt-link to="/fun/" class="btn">fun</nuxt-link>
+    <nuxt-link to="/fun" class="btn">fun</nuxt-link>
+    <nuxt-link to="/django" class="btn">Django users</nuxt-link>
   </div>
 </template>
 
